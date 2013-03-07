@@ -2,11 +2,11 @@
 
 =head1 NAME
 
-PerlMongers::Bangalore - We are the BAngalore Perl Mongers
+PerlMongers::Bangalore - We are the Bangalore Perl Mongers
 
 =head1 VERSION
 
-version 0.001
+version 0.04
 
 =head1 SYNOPSIS
 
@@ -70,9 +70,19 @@ L<https://github.com/shantanubhadoria/perlmongers-bangalore>
 
 Shantanu Bhadoria <shantanu at cpan dott org>
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
+
+=over 4
+
+=item *
 
 Shantanu Bhadoria <shantanu.bhadoria@gmail.com>
+
+=item *
+
+Shantanu Bhadoria <shantanu@cpan.org>
+
+=back
 
 =head1 COPYRIGHT AND LICENSE
 
