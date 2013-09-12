@@ -1,3 +1,4 @@
 # Ignore the release files
 perltidy.LOG
 PerlMongers-Bangalore*
+.build

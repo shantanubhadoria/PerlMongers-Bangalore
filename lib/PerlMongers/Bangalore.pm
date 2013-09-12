@@ -14,6 +14,15 @@ require Exporter;
 # COPYRIGHT
 # VERSION
 
+# Dependencies
+use 5.010000;
+
+=method info
+
+Returns information about the Bangalore Perl Mongers. At this time it returns the perl pod of this module
+
+=cut
+
 sub info {
         system('perldoc', __PACKAGE__);
 }

@@ -1,15 +1,21 @@
-Revision history for perl module PerlMongers::Bangalore 
+Changelog for PerlMongers-Bangalore
 
-{{$NEXT}}
+0.05 2013-09-12T09:31:13
+ - Added README [Shantanu]
+ - Bump Changes [Shantanu Bhadoria]
 
+0.04 2013-03-07T16:33:00
+ - v0.04
+   
+	   - 2013-03-08 00:32:31 Asia/Singapore [Shantanu Bhadoria]
 
-0.04
+0.03 2013-03-07T16:31:16
+ - moved to SHANTANU dzil Package [Shantanu Bhadoria]
+ - v0.03 [Shantanu Bhadoria]
+ - Added the link to discussion page [Shantanu Bhadoria]
+ - v0.02 [Shantanu Bhadoria]
+ - Minor Changes spell correction [Shantanu Bhadoria]
+ - v0.01 [Shantanu Bhadoria]
+ - adding .gitignore for future convenience [Shantanu Bhadoria]
+ - First Commit of PerlMongers::Bangalore.pm [Shantanu Bhadoria]
 
-	- 2013-03-08 00:32:31 Asia/Singapore
-
-
-0.03  Sat Aug 13 10:00:15 IST 2011
-
-0.02  Sat Aug 13 09:52:35 IST 2011
-
-0.01  Sat Aug 13 09:46:27 IST 2011

@@ -76,6 +76,10 @@ Shantanu Bhadoria <shantanu at cpan dott org>
 
 =item *
 
+Shantanu <shantanu@cpan.org>
+
+=item *
+
 Shantanu Bhadoria <shantanu.bhadoria@gmail.com>
 
 =item *
