@@ -6,7 +6,7 @@ PerlMongers::Bangalore - We are the Bangalore Perl Mongers
 
 =head1 VERSION
 
-version 0.05
+version 0.06
 
 =head1 SYNOPSIS
 
@@ -39,6 +39,12 @@ http://mail.pm.org/mailman/listinfo/bangalore-pm
 http://mail.pm.org/pipermail/bangalore-pm/
 
 C<Perl>
+
+=head1 METHODS
+
+=head2 info
+
+Returns information about the Bangalore Perl Mongers. At this time it returns the perl pod of this module
 
 =head1 NAME
 
