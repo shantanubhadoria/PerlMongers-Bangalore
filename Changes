@@ -1,6 +1,24 @@
 Changelog for PerlMongers-Bangalore
 
-0.06 2013-09-14T03:53:28
+0.07 2013-09-14T03:55:20
+ - Merge branch 'master' of
+   github.com:shantanubhadoria/PerlMongers-Bangalore
+   
+   Conflicts:
+	   Changes [Shantanu]
+ - v0.05
+   
+    - Added README [Shantanu]
+    - Bump Changes [Shantanu Bhadoria] [Shantanu]
+
+0.06 2013-09-14T03:54:07
+ - v0.06
+   
+    - v0.05
+       - Fixed gitignore added .build
+       - Fixed Kwalitee Tests
+       - Added README [Shantanu]
+       - Bump Changes [Shantanu Bhadoria] [Shantanu] [Shantanu]
  - v0.05
     - Fixed gitignore added .build
     - Fixed Kwalitee Tests
@@ -12,6 +30,8 @@ Changelog for PerlMongers-Bangalore
    
     - Added README [Shantanu]
     - Bump Changes [Shantanu Bhadoria] [Shantanu]
+ - Added README [Shantanu]
+ - Bump Changes [Shantanu Bhadoria]
 
 0.04 2013-03-07T16:33:00
  - v0.04
